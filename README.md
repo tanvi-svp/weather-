@@ -1,2 +1,1 @@
-# weather-
-just practising with jupyter
+# weather
